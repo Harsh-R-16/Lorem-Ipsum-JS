@@ -1,0 +1,40 @@
+section {
+  width: 800px;
+  max-width: 90%;
+  margin: 20px auto;
+  text-align: center;
+  letter-spacing: 1px;
+}
+h1 {
+  margin: 45px 0px 35px;
+}
+/* form {
+  border: 1px solid red;
+  margin: 20px 0px;
+} */
+p {
+  margin-top: 25px;
+  text-align: left;
+}
+button {
+  padding: 3px 12px;
+  text-transform: uppercase;
+  background-color: #1995ce;
+  color: white;
+  border-radius: 6px;
+  margin-top: 15px;
+}
+button:hover {
+  background-color: #0a85be;
+}
+input {
+  height: 32px;
+  width: 125px;
+  margin: 0px 10px;
+  border-radius: 6px;
+  padding: 2px 5px;
+}
+label {
+  font-size: 20px;
+  font-weight: 600;
+}
